@@ -1,0 +1,68 @@
+/* NOTE Fonts */
+.raleway {
+    font-family: 'Raleway', sans-serif;
+
+}
+
+/* NOTE ICE CREAM Background Images */
+.bg-cookie {
+    background-image: url('https://celebratingsweets.com/wp-content/uploads/2014/04/Cookie-Dough-Ice-Cream-1-5.jpg');
+    min-height: 30vh;
+    background-size: cover;
+}
+
+.bg-van {
+    background-image: url('https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/ultimate-vanilla-ice-cream-1628511695.jpg');
+    min-height: 30vh;
+    background-size: cover;
+}
+
+.bg-straw {
+    background-image: url('https://www.realfoodwithjessica.com/wp-content/uploads/2017/07/paleostrawberryicecream2.jpg');
+    min-height: 30vh;
+    background-size: cover;
+}
+
+/* NOTE VESSELS Background Images */
+
+.bg-cone {
+    background-image: url("https://m.media-amazon.com/images/I/71VNjBMakfL._SL1500_.jpg");
+    min-height: 30vh;
+    background-size: cover;
+}
+
+.bg-waffle {
+    background-image: url('http://images.wbmason.com/350/L_JOY66050.jpg');
+    min-height: 30vh;
+    background-size: cover;
+}
+
+.bg-bowl {
+    background-image: url('https://media.istockphoto.com/photos/discarded-polystyrene-plastic-food-container-garbage-polluting-the-picture-id994823356?s=612x612');
+    min-height: 30vh;
+    background-size: cover;
+}
+
+/* NOTE TOPPINGS Background Toppings */
+
+.bg-chips {
+    background-image: url('https://www.eatthis.com/wp-content/uploads/sites/4/2020/05/chocolate-chips.jpg?quality=82&strip=1&resize=640%2C360');
+    min-height: 30vh;
+    background-size: cover;
+}
+
+.bg-sprink {
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/f/f6/Sprinkles2.jpg');
+    min-height: 30vh;
+    background-size: cover;
+}
+
+.bg-ants {
+    background-image: url('https://images.unsplash.com/photo-1539545555026-ea9418026ac4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80');
+    min-height: 30vh;
+    background-size: cover;
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
